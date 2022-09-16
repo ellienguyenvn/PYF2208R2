@@ -1,2 +1,2 @@
 # PYF2208R2
-Lớp Python căn bản
+This is a resopitory for PYF2208R2
